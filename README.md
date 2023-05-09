@@ -1,1 +1,1 @@
-# siteForPractice
+# react practice project
